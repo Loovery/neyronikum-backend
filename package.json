@@ -1,0 +1,19 @@
+{
+  "name": "neyronikum-backend",
+  "version": "1.0.0",
+  "description": "Mini CRM",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loovery/neyronikum-backend.git"
+  },
+  "author": "Grigorii K, Ruslan O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loovery/neyronikum-backend/issues"
+  },
+  "homepage": "https://github.com/Loovery/neyronikum-backend#readme"
+}
